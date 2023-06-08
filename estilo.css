@@ -42,11 +42,11 @@ body {
   }
 
   .container2 img {
-    margin-left: 270px;
+    margin-left: 200px;
   }
   
   .container2 {
-    display: flex;
+    display: inline-flex;
     align-items: center;
   }
 

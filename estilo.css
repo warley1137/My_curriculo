@@ -43,6 +43,8 @@ body {
 
   .container2 img {
     margin-left: 270px;
+    width: 50%; 
+    height: auto;
   }
   
   .container2 {
